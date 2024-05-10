@@ -9,4 +9,3 @@
 * 01/03
 - [ ] Exercícios
 - [ ] Desafios
-***
